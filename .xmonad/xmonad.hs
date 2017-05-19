@@ -1,0 +1,1 @@
+/home/gen/.homesick/repos/main/home/.xmonad/xmo.back
